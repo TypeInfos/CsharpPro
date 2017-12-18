@@ -1,0 +1,5 @@
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\Model\bin\Debug\TSGLXT.Model.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\Model\bin\Debug\TSGLXT.Model.pdb
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\Model\obj\Debug\TSGLXT.Model.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\Model\obj\Debug\TSGLXT.Model.pdb
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

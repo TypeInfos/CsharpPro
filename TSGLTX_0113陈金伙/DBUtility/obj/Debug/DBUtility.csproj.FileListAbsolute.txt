@@ -1,0 +1,7 @@
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DBUtility\bin\Debug\TSGLXT.DBUtility.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DBUtility\bin\Debug\TSGLXT.DBUtility.pdb
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DBUtility\obj\Debug\TSGLXT.DBUtility.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DBUtility\obj\Debug\TSGLXT.DBUtility.pdb
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache

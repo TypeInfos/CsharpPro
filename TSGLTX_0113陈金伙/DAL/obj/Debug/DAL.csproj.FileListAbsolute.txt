@@ -1,0 +1,12 @@
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\bin\Debug\TSGLXT.DAL.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\bin\Debug\TSGLXT.DAL.pdb
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\bin\Debug\Maticsoft.Common.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\bin\Debug\MySql.Data.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\bin\Debug\TSGLXT.DBUtility.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\bin\Debug\TSGLXT.Model.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\bin\Debug\TSGLXT.DBUtility.pdb
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\bin\Debug\TSGLXT.Model.pdb
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\obj\Debug\TSGLXT.DAL.dll
+C:\Users\mac\Desktop\TSGLTX_0113陈金伙\DAL\obj\Debug\TSGLXT.DAL.pdb
